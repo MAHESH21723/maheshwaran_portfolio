@@ -1,0 +1,197 @@
+{
+  "personal_info": {
+    "name": "MAHESHWARAN K",
+    "title": "XR Developer | Extended Reality Specialist",
+    "tagline": "Crafting immersive experiences that bridge reality and imagination",
+    "about": "Recent graduate passionate about Extended Reality technologies. Skilled in developing AR/VR/MR applications using Unity, Unreal Engine, and web-based XR frameworks. Committed to creating engaging, user-centric immersive experiences.",
+    "contact": {
+      "email": "yourname@example.com",
+      "linkedin": "linkedin.com/in/yourprofile",
+      "github": "github.com/yourprofile"
+    }
+  },
+  "skills": {
+    "XR_Development": [
+      "Unity3D (C#)",
+      "Unreal Engine (C++, Blueprints)",
+      "WebXR API",
+      "Three.js",
+      "A-Frame"
+    ],
+    "AR_Technologies": [
+      "ARCore (Android)",
+      "ARKit (iOS)",
+      "Vuforia",
+      "Niantic Lightship"
+    ],
+    "VR_Platforms": [
+      "Meta Quest SDK",
+      "OpenXR",
+      "SteamVR",
+      "HTC Vive"
+    ],
+    "3D_Skills": [
+      "3D Modeling (Blender)",
+      "Texturing & Materials",
+      "Animation",
+      "Shader Programming"
+    ],
+    "Programming": [
+      "C#",
+      "C++",
+      "JavaScript",
+      "Python"
+    ],
+    "Tools": [
+      "Git & GitHub",
+      "Unity XR Toolkit",
+      "Photon (Multiplayer)",
+      "Oculus Integration SDK"
+    ]
+  },
+  "projects": [
+    {
+      "id": 1,
+      "title": "Virtual Museum Explorer",
+      "category": "VR Application",
+      "description": "An immersive VR museum experience allowing users to explore historical artifacts in 3D space with interactive information panels and spatial audio narration.",
+      "technologies": [
+        "Unity3D",
+        "Meta Quest SDK",
+        "C#",
+        "Blender"
+      ],
+      "features": [
+        "Hand tracking for natural interaction",
+        "Spatial audio for immersive experience",
+        "Interactive 3D artifacts with detailed information",
+        "Teleportation and smooth locomotion options"
+      ],
+      "image": "museum_vr_thumbnail.jpg",
+      "demo_link": "#",
+      "github_link": "#"
+    },
+    {
+      "id": 2,
+      "title": "AR Furniture Placement App",
+      "category": "AR Mobile Application",
+      "description": "Mobile AR application that allows users to visualize furniture in their real-world environment before purchasing, with realistic shadows and scaling.",
+      "technologies": [
+        "Unity",
+        "ARCore",
+        "ARKit",
+        "C#"
+      ],
+      "features": [
+        "Real-time plane detection",
+        "Realistic lighting and shadows",
+        "Multiple furniture models library",
+        "Screenshot and share functionality"
+      ],
+      "image": "ar_furniture_thumbnail.jpg",
+      "demo_link": "#",
+      "github_link": "#"
+    },
+    {
+      "id": 3,
+      "title": "WebXR Solar System",
+      "category": "Web-based XR",
+      "description": "Interactive 3D solar system accessible through web browsers, supporting both desktop and VR headsets. Users can explore planets and learn about celestial bodies.",
+      "technologies": [
+        "Three.js",
+        "WebXR API",
+        "JavaScript",
+        "HTML5"
+      ],
+      "features": [
+        "Cross-platform compatibility",
+        "VR mode support for immersive viewing",
+        "Educational information overlays",
+        "Responsive design for mobile and desktop"
+      ],
+      "image": "webxr_solar_thumbnail.jpg",
+      "demo_link": "#",
+      "github_link": "#"
+    },
+    {
+      "id": 4,
+      "title": "MR Collaborative Workspace",
+      "category": "Mixed Reality",
+      "description": "Mixed reality application for collaborative design reviews, allowing multiple users to interact with 3D models in a shared physical space.",
+      "technologies": [
+        "Unity",
+        "OpenXR",
+        "Photon",
+        "HoloLens 2"
+      ],
+      "features": [
+        "Multi-user synchronization",
+        "Hand gesture controls",
+        "3D annotation tools",
+        "Voice chat integration"
+      ],
+      "image": "mr_workspace_thumbnail.jpg",
+      "demo_link": "#",
+      "github_link": "#"
+    },
+    {
+      "id": 5,
+      "title": "VR Fitness Training",
+      "category": "VR Application",
+      "description": "Gamified VR fitness application with real-time exercise tracking, virtual personal trainer, and progress analytics.",
+      "technologies": [
+        "Unreal Engine",
+        "Meta Quest",
+        "C++",
+        "Blueprints"
+      ],
+      "features": [
+        "Motion tracking for exercise form",
+        "Calorie counter and progress tracking",
+        "Multiple workout environments",
+        "Achievement system and leaderboards"
+      ],
+      "image": "vr_fitness_thumbnail.jpg",
+      "demo_link": "#",
+      "github_link": "#"
+    },
+    {
+      "id": 6,
+      "title": "AR Navigation Guide",
+      "category": "AR Mobile Application",
+      "description": "Indoor/outdoor AR navigation app using GPS and spatial anchors to overlay directional arrows and location markers in real-world view.",
+      "technologies": [
+        "Unity",
+        "ARCore",
+        "Google Maps API",
+        "C#"
+      ],
+      "features": [
+        "Real-time GPS positioning",
+        "Indoor spatial mapping",
+        "POI information display",
+        "Multi-language support"
+      ],
+      "image": "ar_navigation_thumbnail.jpg",
+      "demo_link": "#",
+      "github_link": "#"
+    }
+  ],
+  "education": {
+    "degree": "Bachelor of Technology in Computer Science",
+    "institution": "University Name",
+    "year": "2025",
+    "relevant_courses": [
+      "Computer Graphics",
+      "3D Game Development",
+      "Human-Computer Interaction",
+      "Mobile Application Development",
+      "Virtual Reality Systems"
+    ]
+  },
+  "certifications": [
+    "Unity Certified Professional",
+    "Meta Quest Developer Certification",
+    "XR Development Bootcamp Certificate"
+  ]
+}
